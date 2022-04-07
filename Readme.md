@@ -1,5 +1,8 @@
 # DiscordFonts
 
+Note that this repository only exists to simplify the usage of the Whitney font by distributing them via CDN.
+To use this font, you must acquire an appropriate license.
+
 ## CDN
 
 - [Whitney-300](https://cdn.jsdelivr.net/gh/Tyrrrz/DiscordFonts@master/whitney-300.woff)
