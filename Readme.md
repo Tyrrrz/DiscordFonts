@@ -1,6 +1,6 @@
 # DiscordFonts
 
-Note that this repository only exists to simplify the usage of the Whitney font by distributing them via CDN.
+Note that this repository only exists to simplify the usage of the Whitney font by distributing it via CDN.
 To use this font, you must acquire an appropriate license.
 
 ## CDN
